@@ -1,0 +1,34 @@
+#       text diff=ada
+*.bash  text diff=bash
+#       text diff=Covers
+*.bib   text diff=bibtex
+
+*.cpp   text diff=cpp
+*.hpp   text diff=cpp
+*.c     text diff=cpp
+*.h     text diff=cpp
+
+*.cs    text diff=csharp
+*.css   text diff=css
+*.dts   text diff=dts
+#       text diff=elixir
+*.f     text diff=fortran
+#       text diff=fountain
+*.go    text diff=golang
+*.html  text diff=html
+*.java  text diff=java
+*.md    text diff=markdown
+*.m     text diff=matlab
+*.objc  text diff=objc
+*.pas   text diff=pascal
+*.pl    text diff=perl
+*.php   text diff=php
+*.py    text diff=python
+*.rb    text diff=ruby
+*.rs    text diff=rust
+*.tex   text diff=latex
+
+# vim: ft=conf:
+
+# Author: Blurgy <gy@blurgy.xyz>
+# Date:   May 26 2021, 11:28 [CST]
